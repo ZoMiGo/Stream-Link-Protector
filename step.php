@@ -2,7 +2,6 @@
 url:<input name="adresa" value="" size="100" maxlength="800" type="text">
 <input class="button" name="akce" value="GENERISI" type="submit">
 </form><br><br>
-
 <?php
 /** 
  * Script for Encryption - Decryption of IPTV 
