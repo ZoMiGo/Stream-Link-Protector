@@ -25,7 +25,7 @@
 
 
 #Website root path for links
-$server = 'http://tranafie.com/tv/';
+$server = 'http://myserverurl.com/tv/';
 
 #User interface Acces
 $u = "lHullKi";
