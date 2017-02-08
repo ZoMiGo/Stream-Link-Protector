@@ -41,7 +41,7 @@ $stream = base64_decode("aHR0cDovL3d3dy5uZWtvbmVjbmUuY3ovZ2VuZXJhdG9ycHJveHkudHh
 $key = "7d5c65ac0557c2f047c02cfd62980fa0";
 
 #User System Agent 
-$user_agent = "AlexTV";
+$user_agent = "AlexTV";  // Your User Agent if Stream Server has a User Agent Protection
 
 #Error Video Clip if stream is Offline
 $errorclip = "clip/error.avi";
