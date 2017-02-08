@@ -13,17 +13,6 @@
  * 
  */ 
 
-//define('DEBUG',0);
-
-//define('PRODUCTION',1);
-
-
-
-#development_mode : DEBUG / PRODUCTION
-//$development_mode = PRODUCTION;
-
-
-
 #Website root path for links
 $server = 'http://myserverurl.com/tv/';
 
